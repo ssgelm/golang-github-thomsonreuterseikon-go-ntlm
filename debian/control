@@ -16,9 +16,7 @@ Package: golang-github-thomsonreuterseikon-go-ntlm-dev
 Architecture: all
 Depends: ${shlibs:Depends},
          ${misc:Depends}
-Description: 
- NTLM Implementation for Go
- .
+Description: NTLM Implementation for Go
  This is a native implementation of NTLM for Go
  that was implemented using the Microsoft MS-NLMP documentation available
  at http://msdn.microsoft.com/en-us/library/cc236621.aspx.  The library
