@@ -1,1 +1,8 @@
 .pc
+/debian/.debhelper/
+/debian/debhelper-build-stamp
+/debian/golang-github-thomsonreuterseikon-go-ntlm-dev/
+/debian/*.log
+/debian/files
+/debian/*.substvars
+/obj-*
