@@ -1,4 +1,4 @@
-golang-github-thomsonreuterseikon-go-ntlm (0.0~jenkins-ci-2+git20151030.31.b00ec39-1) UNRELEASED; urgency=medium
+golang-github-thomsonreuterseikon-go-ntlm (0.0~git20151030.0.b00ec39-1) UNRELEASED; urgency=medium
 
   * Initial release (Closes: TODO)
 
