@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 10),
                golang-any
 Standards-Version: 3.9.8
 Homepage: https://github.com/ThomsonReutersEikon/go-ntlm
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-go/packages/golang-github-thomsonreuterseikon-go-ntlm.git
-Vcs-Git: https://anonscm.debian.org/git/pkg-go/packages/golang-github-thomsonreuterseikon-go-ntlm.git
+Vcs-Browser: https://github.com/ssgelm/golang-github-thomsonreuterseikon-go-ntlm.git
+Vcs-Git: https://github.com/ssgelm/golang-github-thomsonreuterseikon-go-ntlm.git
 XS-Go-Import-Path: github.com/ThomsonReutersEikon/go-ntlm
 
 Package: golang-github-thomsonreuterseikon-go-ntlm-dev

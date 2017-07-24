@@ -1,5 +1,5 @@
-golang-github-thomsonreuterseikon-go-ntlm (0.0~git20151030.0.b00ec39-1) UNRELEASED; urgency=medium
+golang-github-thomsonreuterseikon-go-ntlm (0.0~git20151030.0.b00ec39-1) unstable; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release (Closes: #869522)
 
  -- Stephen Gelman <ssgelm@gmail.com>  Mon, 03 Jul 2017 04:30:16 +0000
